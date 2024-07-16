@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+Software+Developer+fr+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Developer+❤️+from+🇮🇩)](https://git.io/typing-svg)
 
 ## Profile 👦🏻
 
