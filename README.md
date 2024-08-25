@@ -10,10 +10,10 @@
 
 ```json
 {
-  "language" : ["javascript/typescript", "python", "go", "dart", "swift", "kotlin"],
-  "frontend" : ["react.js", "angular", "react-native", "flutter", "mobile-ios/android" ],
-  "backend" : ["node.js", "express", "graphql", "flask", "go"],
-  "database" : ["mongodb", "postgresql", "mysql", "firebase-firestore"],
+  "language" : ["html", "css", "javascript/typescript", "python", "go", "dart", "swift", "kotlin"],
+  "frontend" : ["react.js", "angular", "react-native", "flutter", "android-kotlin", "ios-swift" ],
+  "backend" : ["express.js", "go", "laravel", "python", "java"]
+  "database" : ["mongodb", "firebase-firestore", "postgresql", "mysql"]
   "ide" : ["vs-code", "android-studio", "xcode"]
 }
 ```
