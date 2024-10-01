@@ -2,7 +2,7 @@
 
 ## Profile 👦🏻
 
- <p>🌐 Check this out: https://alfrndo-io.vercel.app<br/>
+ <p>🌐 Check this out: https://alphrndo.dev.vercel.app<br/>
  🎮 Hobbies: 🎤 ⚽️ 🎶, Coding ...<br/>
  💬 Discord: _budsss | Ask me about computer program related questions</p>
  
