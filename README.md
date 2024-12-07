@@ -10,10 +10,10 @@
 
 ```json
 {
-  "language" : ["html", "css", "javascript/typescript", "python", "go", "dart", "swift", "kotlin"],
-  "frontend" : ["react.js", "angular", "react-native", "flutter", "android-kotlin", "ios-swift" ],
-  "backend" : ["express.js", "go", "laravel", "python", "java"],
-  "database" : ["mongodb", "firebase-firestore", "postgresql", "mysql"]
+  "languages" : ["html", "css", "javascript", "typescript", "python", "go", "dart", "swift", "kotlin"],
+  "frontend" : ["react", "angular" ],
+  "backend" : ["express.js", "gin", "springboot"],
+  "database" : ["mongodb", "firestore", "postgresql", "mysql"],
 }
 ```
 
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
