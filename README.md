@@ -10,10 +10,10 @@
 
 ```json
 {
-  "languages" : ["html", "css", "javascript", "typescript", "python", "go", "dart", "swift", "kotlin"],
-  "frontend" : ["react", "angular" ],
-  "backend" : ["express.js", "gin", "springboot"],
-  "database" : ["mongodb", "firestore", "postgresql", "mysql"],
+  "languages" : ["html", "css", "javascript", "typescript", "python", "go", "dart", "swift"],
+  "frontend" : ["reactjs", "react-native", "flutter", "angular", "tailwindcss" ],
+  "backend" : ["express.js", "gin", "springboot", "django"],
+  "database" : ["SQLs", "NoSQLs"],
 }
 ```
 
