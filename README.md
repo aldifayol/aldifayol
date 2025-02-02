@@ -64,7 +64,7 @@
 ## Other Interest And Under Study And Research
 <p>
  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+ <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
  
 </p>
 
