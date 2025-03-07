@@ -2,7 +2,7 @@
 # P r o f i l e  👦🏻
 
  <p>🌐 Check this out: https://alphrndo.dev.vercel.app<br/>
- 🎮 Hobbies: 🎤 ⚽️ 🎶, Coding ...<br/>
+ 🎮 Hobbies: 🎤 ⚽️ 🎶 🧑🏻‍💻<br/>
  💬 Discord: _budsss | Ask me about computer program related questions
  <br/>
  </p>
@@ -61,11 +61,14 @@
  <img src="https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 
+
 ## Other Interests And Under Study And Research
+<details>
 <p>
  <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=rust&logoColor=black" />
 </p>
+</details>
 
 <br/><br/>
 # ✨✨ S o f t s k i l l s ✨✨ 
