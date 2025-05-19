@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
 # P r o f i l e  👦🏻
 
- <p>🌐 Check this out: https://alphrndo.dev.vercel.app<br/>
+ <p>🌐 Check this out: https://budzzzdev.vercel.app<br/>
  🎮 Hobbies: 🎤 ⚽️ 🎶 🧑🏻‍💻<br/>
  💬 Discord: _budsss | Ask me about computer program related questions
  <br/>
