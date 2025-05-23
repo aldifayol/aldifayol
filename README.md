@@ -31,7 +31,7 @@
 <p> 
  <img src="https://img.shields.io/badge/NODE_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/DENO-70FFAF?style=for-the-badge&logo=deno&logoColor=black" /> 
- <img src="https://img.shields.io/badge/GO_GIN-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
+ <img src="https://img.shields.io/badge/GO_GIN_|_FIBER-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
  <img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=flat-square&logo=express&logoColor=white" />
  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 <br/>
