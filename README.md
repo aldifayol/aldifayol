@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
-# P r o f i l e  👦🏻
+# Profile  👦🏻
 
  <p>🌐 Check this out: https://budzzzdev.vercel.app<br/>
  🎮 Hobbies: 🎤 ⚽️ 🎶 🧑🏻‍💻<br/>
