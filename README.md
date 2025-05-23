@@ -14,7 +14,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=FFF&style=for-the-badge" />
  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
  <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
@@ -44,8 +44,13 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Google_cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
  <img src="https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
+
+## Skills
+<p>REST API | tRPC</p>
+<p></p>
 
 ## Softskills ✨ 
 <p><b>----->> Making you HAPPY 😊</b><p>
@@ -70,7 +75,6 @@
    <img hidden="true" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
    
  <img src="https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
- <img src="https://img.shields.io/badge/Google_cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
  <img src="https://img.shields.io/badge/Netlify-FFFFFF?style=flat-square&logo=netlify&logoColor=black" />
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
    <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
