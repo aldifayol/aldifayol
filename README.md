@@ -2,8 +2,8 @@
 # Profile  👦🏻
 
  <p>🌐 Check this out: https://aldi.codes<br/>
- 🎮 Hobbies: 🎤 ⚽️ 🎶 🧑🏻‍💻<br/>
- 💬 Discord: _budsss | Ask me about computer program related questions
+ 🎮 Hobbies: 🧑🏻‍💻 🎤 🎶<br/>
+ 💬 Discord: @brokedec | Ask me about computer program related questions
  <br/>
  </p>
 
@@ -29,7 +29,7 @@
 <p> 
  <img src="https://img.shields.io/badge/NODE_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img src="https://img.shields.io/badge/DENO-70FFAF?style=for-the-badge&logo=deno&logoColor=black" /> 
- <img src="https://img.shields.io/badge/GO_GIN_|_FIBER-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
+ <img src="https://img.shields.io/badge/GO_GIN_|_FIBER_|_ECHO_-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
  <img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br/>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -44,12 +44,17 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Google_cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+ <img src="https://img.shields.io/badge/Google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
  <img src="https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 ## Skills
-<p>REST API | tRPC</p>
+<p>
+ <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/TDD-FFFFFF?style=for-the-badge&logo=JEST&logoColor=black" />
+ <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=JENKINS&logoColor=white" />
+</p>
+
 <p></p>
 
 ## Softskills ✨ 
@@ -62,7 +67,7 @@
 <p>
  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
- <img src="https://img.shields.io/badge/LYNX-000000?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/LYNX-000000?style=for-the-badge&logo=lynx&logoColor=white" />
 </p>
 </details>
 
