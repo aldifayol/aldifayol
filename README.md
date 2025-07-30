@@ -44,7 +44,7 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+ <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
  <img src="https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
