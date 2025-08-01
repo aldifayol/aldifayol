@@ -1,12 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
-# Profile  👦🏻
-
- <p>🌐 Check this out: https://aldi.codes<br/>
- 🎮 Hobbies: 🧑🏻‍💻 🎤 🎶<br/>
- 💬 Discord: @brokedec | Ask me about computer program related questions
- <br/>
- </p>
-
 
 # Techs and Skills ✨ 
 
@@ -14,7 +6,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
  <img src="https://shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=FFF&style=for-the-badge" />
  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
  <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
@@ -36,7 +28,6 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ## Tools
@@ -50,6 +41,7 @@
 
 ## Skills
 <p>
+ <img src="https://img.shields.io/badge/RPC-ffffff?style=for-the-badge&logo=rpc&logoColor=f5f5f5" /> 
  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white" /> 
  <img src="https://img.shields.io/badge/TDD-FFFFFF?style=for-the-badge&logo=JEST&logoColor=black" />
  <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=JENKINS&logoColor=white" />
@@ -64,6 +56,11 @@
 <details>
 <summary>Other Interests | Research On Progress</summary>
  <br/>
+ <p>
+ <img src="https://img.shields.io/badge/Blockchain-f7941d?style=for-the-badge&logo=bitcoin&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Agentic_AI-c13584?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/MCP-ffffff?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 <p>
  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black" />
@@ -78,6 +75,9 @@
  <img hidden="true" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img hidden="true" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
    <img hidden="true" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+
+   
+  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
    
  <img src="https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
  <img src="https://img.shields.io/badge/Netlify-FFFFFF?style=flat-square&logo=netlify&logoColor=black" />
