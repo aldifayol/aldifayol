@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
 
-# Techs and Skills ✨ 
+# Tech Stack and Skill ✨ 
 
 ## Languages
 
