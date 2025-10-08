@@ -11,6 +11,7 @@
  <img src="https://shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=FFF&style=for-the-badge" />
  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
  <br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br/>
@@ -21,6 +22,7 @@
 ## Frameworks | Libraries
 
 <p> 
+ <img src="https://img.shields.io/badge/Spring Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/GO_GIN_|_FIBER_|_ECHO_-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
  <img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br/>
