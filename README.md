@@ -1,6 +1,6 @@
 # Hi there, I'm Aldi! 👋
 
-<div align="center">
+<div align="left">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;5%2B+Years+of+Experience+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1)
 
@@ -43,7 +43,7 @@ I'm a **Full-Stack Developer** with 5+ years of experience building modern web a
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldifayol&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
