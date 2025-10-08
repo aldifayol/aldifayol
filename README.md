@@ -1,4 +1,11 @@
+## Hey, there! My name is Aldi 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
+
+<div align="left">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=✨A+❤️+Software+Dev+❤️+from+🇮🇩;Full-Stack+Developer+%F0%9F%9A%80;5%2B+Years+of+Experience+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1)
+
+</div>
 
 # Tech Stack and Skill ✨ 
 
