@@ -20,8 +20,6 @@
 ## Frameworks | Libraries
 
 <p> 
- <img src="https://img.shields.io/badge/NODE_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img src="https://img.shields.io/badge/DENO-70FFAF?style=for-the-badge&logo=deno&logoColor=black" /> 
  <img src="https://img.shields.io/badge/GO_GIN_|_FIBER_|_ECHO_-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
  <img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
 <br/>
@@ -88,6 +86,10 @@
 <br/>
  <img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" /> 
+
+ 
+ <img src="https://img.shields.io/badge/NODE_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/DENO-70FFAF?style=for-the-badge&logo=deno&logoColor=black" /> 
 
 
 
