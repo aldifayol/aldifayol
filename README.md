@@ -43,7 +43,7 @@
 
 ## Skills
 <p>
- <img src="https://img.shields.io/badge/RPC-ffffff?style=for-the-badge&logo=rpc&logoColor=f5f5f5" /> 
+ <img src="https://img.shields.io/badge/tRPC-ffffff?style=for-the-badge&logo=rpc&logoColor=f5f5f5" /> 
  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white" /> 
  <img src="https://img.shields.io/badge/TDD-FFFFFF?style=for-the-badge&logo=JEST&logoColor=black" />
  <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=JENKINS&logoColor=white" />
@@ -53,7 +53,16 @@
 
 ## Softskills ✨ 
 <p><b>----->> Making you HAPPY 😊</b><p>
-<br/>
+
+## 📊 GitHub Stats
+
+<div align="left">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldifayol&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldifayol&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 <details>
 <summary>Other Interests | Research On Progress</summary>
