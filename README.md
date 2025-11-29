@@ -56,9 +56,10 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="left">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldifayol&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aldifayol&show_icons=true&theme=radical&hide_border=true&count_private=true) -->
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldifayol&layout=compact&theme=radical&hide_border=true)
 
