@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/FIBER-ECHO_-000000?style=for-the-badge&logo=gin&logoColor=008ECF" />
  <img src="https://img.shields.io/badge/EXPRESS_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img src="https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+ <img src="https://img.shields.io/badge/Supabase-3fd08f?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 <p>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -19,7 +20,6 @@
  <img src="https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 <p>
- <img src="https://img.shields.io/badge/Supabase-3fd08f?style=for-the-badge&logo=supabase&logoColor=white" />
  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img src="https://img.shields.io/badge/NOSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
@@ -31,14 +31,15 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
- <img src="https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS-ff6200?style=for-the-badge&logo=amazon&logoColor=white" />
+ <img src="https://img.shields.io/badge/Tencent_Edgeone-0052d9?style=for-the-badge&logo=tencent&logoColor=white" />
 </p>
 
 ## Skills
 <p>
  <img src="https://shields.io/badge/Type--safety-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge" />
- <img src="https://img.shields.io/badge/API_INTEGRATION-000000?style=for-the-badge&logoColor=f5f5f5" />
- <img src="https://shields.io/badge/SEO-00ff00?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/API_INTEGRATION-000000?style=for-the-badge" />
+ <img src="https://shields.io/badge/SEO-00ff00?style=for-the-badge&logo=google&logoColor=white" />
  <img src="https://img.shields.io/badge/TDD-FFFFFF?style=for-the-badge&logo=JEST&logoColor=black" />
 </p>
 <p> 
