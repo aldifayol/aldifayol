@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+There,+I'm+Aldi!;✨A+❤️+Software+Dev+❤️+from+🇮🇩)](https://git.io/typing-svg)
 
 
-# Tech Stack and Skill ✨ 
+## Tech Stack ✨ 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -44,7 +44,7 @@
 </p>
 <p> 
  <img src="https://img.shields.io/badge/BUILD_TOOLS_|_PM-VITE_PNPM_BUN-DDD?style=for-the-badge&logo=vite&logoColor=white" /> 
- <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=JENKINS&logoColor=white" />
+ <img src="https://img.shields.io/badge/CICD-1100dd?style=for-the-badge&logo=JENKINS&logoColor=black" />
  <img src="https://img.shields.io/badge/Security_|_A11y-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /> 
 </p>
 
