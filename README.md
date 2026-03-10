@@ -16,7 +16,7 @@
 </p>
 <p>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
- <img src="https://img.shields.io/badge/tanstack_start-488f07?style=for-the-badge&logo=tanstack&logoColor=white" />
+ <img src="https://img.shields.io/badge/tanstack_start-FF8646?style=for-the-badge&logo=tanstack&logoColor=white" />
  <img src="https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 <p>
