@@ -29,6 +29,7 @@
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cloudflare-ff6200?style=for-the-badge&logo=cloudflare&logoColor=white" />
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> 
  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
  <img src="https://img.shields.io/badge/AWS-ff6200?style=for-the-badge&logo=amazon&logoColor=white" />
@@ -43,9 +44,14 @@
  <img src="https://img.shields.io/badge/TDD-FFFFFF?style=for-the-badge&logo=JEST&logoColor=black" />
 </p>
 <p> 
- <img src="https://img.shields.io/badge/BUILD_TOOLS_|_PM-VITE_PNPM_BUN-DDD?style=for-the-badge&logo=vite&logoColor=white" /> 
- <img src="https://img.shields.io/badge/CICD-1100dd?style=for-the-badge&logo=JENKINS&logoColor=black" />
- <img src="https://img.shields.io/badge/Security_|_A11y-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/BUILD_TOOLS_|_PM-VITE,_PNPM,_BUN-DDD?style=for-the-badge&logo=vite&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/CICD-1100dd?style=for-the-badge&logo=JENKINS&logoColor=white" />
+ <img src="https://img.shields.io/badge/Security_|_A11y-000000?style=for-the-badge&logo=api&logoColor=white" /> 
+ 
+</p>
+<p> 
+ <img src="https://img.shields.io/badge/SDLC_|_Agile,_Scrum-DDD?style=for-the-badge&logo=agile&logoColor=white" />
+ <img src="https://img.shields.io/badge/API_Docs_|_Swagger,_OpenAPI-DDD?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 ## Softskills ✨ 
